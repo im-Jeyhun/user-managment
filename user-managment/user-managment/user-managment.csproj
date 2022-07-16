@@ -6,4 +6,9 @@
     <RootNamespace>user_managment</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ApplicationLogic\Validations\" />
+    <Folder Include="DataBase\Repository\" />
+  </ItemGroup>
+
 </Project>
